@@ -1,2 +1,2 @@
-# AI-BigData
-Learning AI and Big Data from Telkom University
+# AI DAN BIG DATA ANALYSIS
+Mata Kuliah Pilihan AI DAN BIG DATA ANALYSIS Telkom University
