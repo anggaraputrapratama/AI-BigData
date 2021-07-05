@@ -1,0 +1,10 @@
+Homework 11
+Dear Students,
+
+Please mitigating the overfitting problem that faced in the following code:
+
+https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/3.6-classifying-newswires.ipynb
+
+You can use each of three technique (reducing network size, adding weight regularization and adding dropout) or the combination of them.
+
+Thank You

@@ -1,0 +1,10 @@
+Homework 10
+Dear Students,
+
+
+
+Please continue the experiment process of "classifying newswires" at https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/3.6-classifying-newswires.ipynb, the current validation accuracy on the reference book is about 81%, try to achieve the validation accuracy above 90%. You can try all possible ways to achieve a validation accuracy of more than 90%.
+
+
+
+Thank You

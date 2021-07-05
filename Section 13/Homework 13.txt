@@ -1,0 +1,6 @@
+
+Homework 13
+Dear students,
+
+Please install the Pytorch framework and show the results on your jupyter notebook as illustration attached.
+Please explain about Pytorch and show the comments on your jupyter notebook as illustration attached.

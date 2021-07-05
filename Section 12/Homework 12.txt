@@ -1,0 +1,14 @@
+Homework 12
+Dear students,
+
+Base on the reference below:
+
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+Download the following dataset (12 class of Cat) and train model from scratch and with pretrained model:
+
+https://drive.google.com/file/d/1PabdYKLkvMTMqyan8pPktO03uVNttVi6/view?usp=sharing
+
+You need to get the accuracy above 80% for scratch model and above 90% for pre trained model, and also you need to plot the graph for train-validation accuracy, and train-validation loss.
+
+Thank You
