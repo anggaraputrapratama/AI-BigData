@@ -1,0 +1,2 @@
+Makeup Midterm
+Please plot the T-SNE figure properly base on the handout instruction.
