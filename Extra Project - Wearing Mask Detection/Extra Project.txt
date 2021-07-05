@@ -1,0 +1,6 @@
+Extra Project - Wearing Mask Detection
+Dear students,
+
+If you want to get "10" extra point for your total score, you can build the system for wearing mask detection and you need to present it on the final exam week, see the attached file for technical details.
+
+Thank You
