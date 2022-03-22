@@ -1,7 +1,7 @@
 # AI DAN BIG DATA ANALYSIS
 Mata Kuliah Pilihan AI DAN BIG DATA ANALYSIS Telkom University
 
-## Extra Project - Mask Detection
+## Extra Project - Yolo v2 Mask Detection
 [Extra Project Use YoloV2](https://github.com/anggaraputrapratama/YoloV2-MaskDetection)
 
 
