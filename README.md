@@ -2,7 +2,11 @@
 Mata Kuliah Pilihan AI DAN BIG DATA ANALYSIS Telkom University
 
 ## Extra Project - Yolo v2 Mask Detection
-[Extra Project Use YoloV2](https://github.com/anggaraputrapratama/YoloV2-MaskDetection)
+[Extra Project Use YoloV2](https://github.com/anggaraputrapratama/YoloV2-MaskDetection)<br>
+Project Team : <br>
+1. [Anggara Putra Pratama - 1101174240](https://github.com/anggaraputrapratama)<br>
+2. [Regina Acintya P.M. - 1101174141](https://github.com/rererrw) <br>
+3. M. Kemal Hernandi - 1101174169<br>
 
 
 ![Test Images YoloV2](https://raw.githubusercontent.com/anggaraputrapratama/AI-BigData/main/test_image-Yolov2.png)
